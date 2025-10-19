@@ -1,0 +1,4 @@
+# gnore all .exe file
+*.exe
+*.app
+*.bin
